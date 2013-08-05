@@ -1,0 +1,165 @@
+
+
+===== Task: 51fc1a8c557b3 =====
+Fri Aug  2 15:46:04 CDT 2013
+
+					unzip -d  uploads/pv51fc1a8c557b3/ &quot;/tmp/phpO1bHm8&quot;;
+				
+
+				cd uploads/;
+				zip pv51fc1a8c557b3 pv51fc1a8c557b3/*.xml pv51fc1a8c557b3/*.json;
+				rm -r pv51fc1a8c557b3;
+connector/conn.sh -send uploads/pv51fc1a8c557b3.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51fc1a8c557b3.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51fc1a8c557b3 &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51fc1a8c557b3 > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51fc5c72cc41a =====
+Fri Aug  2 20:27:14 CDT 2013
+
+					unzip -d  uploads/pv51fc5c72cc41a/ &quot;/tmp/phprmg0lf&quot;;
+				
+
+				cd uploads//pv51fc5c72cc41a/;
+				zip src.zip *.xml;
+				cd ../;
+				zip pv51fc5c72cc41a pv51fc5c72cc41a/*.zip pv51fc5c72cc41a/*.json;
+				rm -r pv51fc5c72cc41a;
+connector/conn.sh -send uploads/pv51fc5c72cc41a.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51fc5c72cc41a.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51fc5c72cc41a &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51fc5c72cc41a > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51fc5d25d540c =====
+Fri Aug  2 20:30:13 CDT 2013
+
+					unzip -d  uploads/pv51fc5d25d540c/ &quot;/tmp/phpTnbGve&quot;;
+				
+
+				cd uploads//pv51fc5d25d540c/;
+				zip src.zip *.xml;
+				cd ../;
+				zip pv51fc5d25d540c pv51fc5d25d540c/*.zip pv51fc5d25d540c/*.json;
+				rm -r pv51fc5d25d540c;
+connector/conn.sh -send uploads/pv51fc5d25d540c.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51fc5d25d540c.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51fc5d25d540c &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51fc5d25d540c > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51feafdceacb2 =====
+Sun Aug  4 14:47:40 CDT 2013
+
+					unzip -d  uploads/pv51feafdceacb2/ &quot;/tmp/phpNMHTve&quot;;
+				
+
+				cd uploads/;
+				zip pv51feafdceacb2 pv51feafdceacb2/*.xml pv51feafdceacb2/*.json;
+				rm -r pv51feafdceacb2;
+connector/conn.sh -send uploads/pv51feafdceacb2.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51feafdceacb2.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51feafdceacb2 &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51feafdceacb2 > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51feb19eaa8d0 =====
+Sun Aug  4 14:55:10 CDT 2013
+
+				cd uploads/;
+				zip pv51feb19eaa8d0 pv51feb19eaa8d0/*.xml pv51feb19eaa8d0/*.json;
+				rm -r pv51feb19eaa8d0;
+connector/conn.sh -send uploads/pv51feb19eaa8d0.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51feb19eaa8d0.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51feb19eaa8d0 &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51feb19eaa8d0 > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51feb4071e1ab =====
+Sun Aug  4 15:05:27 CDT 2013
+
+				cd uploads/;
+				zip pv51feb4071e1ab pv51feb4071e1ab/*.xml pv51feb4071e1ab/*.json;
+				rm -r pv51feb4071e1ab;
+connector/conn.sh -send uploads/pv51feb4071e1ab.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51feb4071e1ab.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51feb4071e1ab &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51feb4071e1ab > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51feb96b4d7c0 =====
+Sun Aug  4 15:28:27 CDT 2013
+
+				cd uploads/;
+				zip pv51feb96b4d7c0 pv51feb96b4d7c0/*.xml pv51feb96b4d7c0/*.json;
+				rm -r pv51feb96b4d7c0;
+connector/conn.sh -send uploads/pv51feb96b4d7c0.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51feb96b4d7c0.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51feb96b4d7c0 &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51feb96b4d7c0 > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51ffe68adb3f2 =====
+Mon Aug  5 12:53:14 CDT 2013
+
+				cd uploads/;
+				zip pv51ffe68adb3f2 pv51ffe68adb3f2/*.xml pv51ffe68adb3f2/*.json;
+				rm -r pv51ffe68adb3f2;
+connector/conn.sh -send uploads/pv51ffe68adb3f2.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51ffe68adb3f2.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51ffe68adb3f2 &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51ffe68adb3f2 > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
+
+
+===== Task: 51ffe7ae0c4a3 =====
+Mon Aug  5 12:58:06 CDT 2013
+
+					unzip -d  uploads/pv51ffe7ae0c4a3/ &quot;/tmp/php5BQ2U4&quot;;
+				
+
+				cd uploads//pv51ffe7ae0c4a3/;
+				zip src.zip *.xml;
+				cd ../;
+				zip pv51ffe7ae0c4a3 pv51ffe7ae0c4a3/*.zip pv51ffe7ae0c4a3/*.json;
+				rm -r pv51ffe7ae0c4a3;
+connector/conn.sh -send uploads/pv51ffe7ae0c4a3.zip ProseVisService/data/src*==========*
+send
+[SSHClient] Shell channel disconnected 
+rm -f uploads/pv51ffe7ae0c4a3.zip
+connector/conn.sh -exec &quot;cd ProseVisService;./control.sh 51ffe7ae0c4a3 &gt; log/std.txt 2&gt; log/error.txt;sleep 5; cd ~/;*==========*
+exec
+cd ProseVisService;./control.sh 51ffe7ae0c4a3 > log/std.txt 2> log/error.txt;sleep 5; cd ~/;
+[SSHClient] Shell channel disconnected 
