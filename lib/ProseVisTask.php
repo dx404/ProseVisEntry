@@ -107,10 +107,12 @@ class ProseVisTask {
 		fclose($fp);
 	}
 	
+	// find . -name '*.xml' -exec mv '{}' . \;
 	private function prepare_archive() {
 		if ($this->isToCompare){
 			$this->proseVis_shell_exec("
 				cd $this->local_prefix/pv$this->taskID/;
+				find . -name '*.xml' -exec mv '{}' . \;;
 				zip src.zip *.xml;
 				cd ../;
 				zip pv$this->taskID pv$this->taskID/*.zip pv$this->taskID/*.json;
